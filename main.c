@@ -14,5 +14,7 @@ int main(void) {
     printf("Regular");
   else
     printf("Insuficiente");
+
+  printf("este es un cambio inserido");
   return 0;
 }
